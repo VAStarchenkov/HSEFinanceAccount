@@ -18,3 +18,4 @@
 /Users/vadimstarchenkov/Desktop/BHM1_Starchenkov_2310/FinanceAccounting/obj/Debug/net9.0/FinanceAccounting.pdb
 /Users/vadimstarchenkov/Desktop/BHM1_Starchenkov_2310/FinanceAccounting/obj/Debug/net9.0/FinanceAccounting.genruntimeconfig.cache
 /Users/vadimstarchenkov/Desktop/BHM1_Starchenkov_2310/FinanceAccounting/obj/Debug/net9.0/ref/FinanceAccounting.dll
+/Users/vadimstarchenkov/Desktop/BHM1_Starchenkov_2310/FinanceAccounting/obj/Debug/net9.0/FinanceAccounting.sourcelink.json

@@ -32,7 +32,7 @@ namespace FinanceAccounting.UI
                 Console.WriteLine("4. Аналитика");
                 Console.WriteLine("5. Экспорт данных");
                 Console.WriteLine("6. Импорт данных");
-                Console.WriteLine("7. Пересчитать баланс"); // 🔄 Новый пункт
+                Console.WriteLine("7. Пересчитать баланс");
                 Console.WriteLine("8. Выход");
                 Console.Write("Выберите действие: ");
 
