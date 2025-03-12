@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UzredrV68I=",
+  "success": true,
+  "projectFilePath": "/Users/vadimstarchenkov/Desktop/BHM1_Starchenkov_2310/FinanceAccounting/FinanceAccounting.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadimstarchenkov/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/vadimstarchenkov/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/vadimstarchenkov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "/Users/vadimstarchenkov/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

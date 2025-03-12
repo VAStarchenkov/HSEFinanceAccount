@@ -49,8 +49,8 @@
 ### **Команды для запуска:**
 ```sh
 # 1. Клонировать репозиторий
-$ git clone https://github.com/username/finance-accounting.git
-$ cd finance-accounting
+$ git clone https://github.com/VAStarchenkov/HSEFinanceAccount
+$ cd HSEFinanceAccount
 
 # 2. Скомпилировать проект
 $ dotnet build
